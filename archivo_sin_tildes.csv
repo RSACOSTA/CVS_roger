@@ -1,0 +1,1001 @@
+Zona;Pais;Tipo de producto;Prioridad;ID Pedido;Unidades
+Europa;United Kingdom;Snacks;Critica;242113196;5530
+Europa;Malta;Carnicos;Alta;190800607;994
+Australia y Oceania;Marshall Islands;Cereales;Critica;765228068;6845
+Africa;Iran;Frutas;Baja;232631909;9806
+Centroamerica y Caribe;Guatemala;Alimento infantil;Media;530560958;3633
+Centroamerica y Caribe;Grenada;Bebida;Baja;516876542;4110
+Australia y Oceania;Fiji;Snacks;Media;919752490;4056
+Africa;Tunisia ;Cosmeticos;Media;287675130;8319
+Centroamerica y Caribe;Grenada;Cuidado personal;Critica;839443290;8779
+Australia y Oceania;Australia;Material de oficina;Media;814168298;9347
+Norteamerica;Greenland;Cosmeticos;Alta;321273982;966
+Africa;Angola;Snacks;Critica;890496671;6609
+Africa;Zambia;Bebida;Critica;521885192;6281
+Africa;Kenya;Verduras;Alta;435800874;2018
+Africa;Azerbaijan;Frutas;Critica;122917544;2888
+Africa;Mozambique;Cuidado personal;Critica;494221532;9989
+Australia y Oceania;Federated States of Micronesia;Cosmeticos;Critica;731011664;1451
+Centroamerica y Caribe;Dominican Republic;Snacks;Critica;534899270;7436
+Africa;Libya;Material de oficina;Alta;577808177;5135
+Asia;Uzbekistan;Material de oficina;Baja;251974713;3772
+Asia;Sri Lanka;Cuidado personal;Media;819947707;9602
+Africa;The Gambia;Cosmeticos;Critica;464588487;912
+Asia;Myanmar;Snacks;Media;139070880;3019
+Asia;Bhutan;Ropa;Critica;416881215;3270
+Africa;Mali;Verduras;Critica;141818320;6047
+Africa;Burundi;Cuidado personal;Alta;477993524;7761
+Africa;Libya;Ropa;Alta;859830653;1852
+Africa;Nigeria;Ropa;Critica;342066037;3797
+Europa;Norway;Domestico;Critica;749748504;6098
+Africa;Kenya;Cosmeticos;Media;828239381;3293
+Australia y Oceania;Papua New Guinea;Verduras;Alta;293212497;6948
+Asia;North Korea;Cuidado personal;Baja;280654180;663
+Europa;Montenegro;Ropa;Media;196863257;5067
+Europa;Norway;Frutas;Alta;868451058;2822
+Africa;Lesotho;Ropa;Baja;492341411;3619
+Asia;Indonesia;Carnicos;Alta;485770642;9183
+Africa;Iraq;Bebida;Alta;536287581;8268
+Asia;Singapore;Cereales;Critica;851753556;1660
+Asia;South Korea;Verduras;Media;810342395;7177
+Africa;Lebanon;Domestico;Baja;310540425;4668
+Asia;Myanmar;Frutas;Alta;221146476;1011
+Asia;Vietnam;Ropa;Alta;131271874;5120
+Africa;Jordan;Frutas;Baja;600340449;2935
+Australia y Oceania;Palau;Material de oficina;Baja;908088529;2430
+Centroamerica y Caribe;Antigua and Barbuda ;Cereales;Critica;404564940;8611
+Australia y Oceania;Papua New Guinea;Cuidado personal;Baja;760131013;8513
+Centroamerica y Caribe;El Salvador;Ropa;Media;115460574;6205
+Africa;Republic of the Congo;Bebida;Baja;731539952;7783
+Australia y Oceania;Vanuatu;Carnicos;Critica;439667975;6379
+Asia;Bangladesh;Ropa;Baja;291455972;7154
+Africa;Burundi;Cereales;Baja;508827769;2299
+Africa;South Sudan;Verduras;Media;934019696;6039
+Africa;Mozambique;Bebida;Baja;579580581;9628
+Centroamerica y Caribe;Saint Kitts and Nevis ;Carnicos;Critica;778371751;6353
+Africa;Rwanda;Verduras;Media;233567035;6531
+Africa;Rwanda;Bebida;Alta;868652760;2510
+Europa;Moldova ;Verduras;Baja;177427756;3671
+Europa;Austria;Cereales;Baja;674003350;1424
+Europa;Spain;Ropa;Baja;442803370;4212
+Asia;China;Alimento infantil;Critica;788564145;2509
+Africa;Qatar;Cosmeticos;Media;386334502;3819
+Europa;Georgia;Cuidado personal;Critica;231475770;7679
+Asia;Kazakhstan;Domestico;Media;489661777;656
+Africa;Namibia;Cuidado personal;Baja;946878850;1348
+Centroamerica y Caribe;Jamaica;Carnicos;Baja;559425818;5386
+Africa;Syria;Verduras;Media;603914010;431
+Africa;Tanzania;Frutas;Critica;627267253;1174
+Africa;Angola;Alimento infantil;Alta;696721875;4340
+Asia;China;Cuidado personal;Baja;949826705;3684
+Europa;Hungary;Cuidado personal;Baja;244443070;4991
+Europa;Norway;Domestico;Alta;208744800;1080
+Australia y Oceania;Australia;Carnicos;Critica;291218221;6798
+Africa;Nigeria;Domestico;Media;910662162;4025
+Asia;Thailand;Material de oficina;Media;306187951;6674
+Asia;Taiwan;Frutas;Alta;387219417;5685
+Asia;India;Verduras;Baja;883492887;4033
+Europa;Romania;Bebida;Baja;695057189;1723
+Australia y Oceania;East Timor;Cosmeticos;Baja;142273652;790
+Europa;Bosnia and Herzegovina;Cereales;Baja;515816104;303
+Europa;Ireland;Cuidado personal;Baja;926670873;1359
+Europa;Croatia;Domestico;Baja;556136786;2089
+Africa;Iraq;Alimento infantil;Baja;905825173;2653
+Europa;Malta;Material de oficina;Critica;847659862;245
+Europa;Ireland;Carnicos;Baja;673877179;4087
+Africa;Madagascar;Alimento infantil;Baja;747025954;435
+Europa;Austria;Cosmeticos;Media;149967515;7575
+Africa;Sierra Leone;Cuidado personal;Critica;735875689;824
+Europa;Netherlands;Material de oficina;Critica;378236806;7531
+Europa;Croatia;Cosmeticos;Alta;620849692;2075
+Centroamerica y Caribe;Trinidad and Tobago;Snacks;Baja;827825677;869
+Asia;South Korea;Domestico;Critica;433588588;7353
+Australia y Oceania;Samoa ;Carnicos;Alta;292874753;7003
+Europa;Albania;Material de oficina;Baja;430733001;2322
+Africa;Cape Verde;Frutas;Media;492524659;7846
+Europa;Italy;Bebida;Baja;193923556;5145
+Europa;Hungary;Bebida;Baja;670916020;7815
+Asia;Maldives;Alimento infantil;Critica;429800879;6486
+Africa;Mali;Domestico;Alta;297189462;3821
+Africa;Yemen;Cuidado personal;Media;270005595;9511
+Asia;North Korea;Snacks;Baja;865485608;5279
+Asia;Uzbekistan;Cereales;Alta;871178328;9882
+Europa;Latvia;Verduras;Baja;494945085;4104
+Asia;Singapore;Snacks;Critica;914959704;5764
+Europa;Lithuania;Domestico;Baja;229708516;4709
+Africa;Senegal;Bebida;Alta;207990348;7821
+Africa;South Sudan;Verduras;Critica;438916528;4009
+Europa;Bulgaria;Alimento infantil;Alta;581910884;9217
+Africa;Seychelles ;Carnicos;Alta;816709744;1417
+Centroamerica y Caribe;Saint Kitts and Nevis ;Domestico;Alta;493361937;5616
+Centroamerica y Caribe;Saint Vincent and the Grenadines;Alimento infantil;Alta;382228791;8848
+Europa;Andorra;Cosmeticos;Baja;423984134;5182
+Africa;Mali;Carnicos;Critica;179614293;716
+Africa;Togo;Cuidado personal;Media;180418097;8579
+Asia;Thailand;Carnicos;Alta;578006875;3934
+Europa;Moldova ;Domestico;Alta;694304454;8972
+Centroamerica y Caribe;Trinidad and Tobago;Alimento infantil;Alta;371547162;7917
+Asia;Japan;Bebida;Media;422283828;2024
+Africa;Central African Republic;Cereales;Critica;379375779;4578
+Africa;Azerbaijan;Cuidado personal;Baja;745996844;5899
+Africa;Mauritania;Frutas;Baja;745633351;8333
+Europa;Portugal;Snacks;Media;572084128;1261
+Africa;Liberia;Bebida;Baja;939460504;6095
+Africa;South Sudan;Frutas;Alta;832186305;1276
+Africa;Cameroon;Frutas;Baja;654997861;7277
+Centroamerica y Caribe;Cuba;Carnicos;Baja;882943999;1605
+Africa;Malawi;Frutas;Baja;711386048;3795
+Australia y Oceania;Tuvalu;Bebida;Baja;305997836;415
+Africa;Burundi;Carnicos;Alta;352765691;62
+Africa;Liberia;Verduras;Critica;707988440;8367
+Asia;Turkmenistan;Verduras;Media;848277413;2992
+Africa;Uganda;Domestico;Media;320556437;8628
+Africa;Lebanon;Alimento infantil;Alta;992061841;1999
+Europa;Switzerland;Material de oficina;Media;300342452;6861
+Africa;Kuwait;Verduras;Alta;703259599;8998
+Asia;India;Ropa;Alta;228987109;1229
+Africa;Angola;Cereales;Critica;126011312;8402
+Asia;Uzbekistan;Bebida;Critica;813131034;2397
+Europa;Latvia;Cuidado personal;Critica;529457604;7126
+Africa;Ghana;Carnicos;Media;284414851;3530
+Europa;Poland;Bebida;Critica;707739102;4583
+Asia;Mongolia;Cosmeticos;Baja;699479186;290
+Asia;Vietnam;Cereales;Critica;579996430;2687
+Europa;United Kingdom;Cereales;Baja;739964663;842
+Australia y Oceania;Vanuatu;Ropa;Baja;290370213;5854
+Africa;Ethiopia;Frutas;Baja;212511909;5851
+Africa;Niger;Frutas;Critica;208001077;996
+Africa;Central African Republic;Cuidado personal;Alta;948761546;8480
+Africa;Cape Verde;Snacks;Critica;927029645;7527
+Norteamerica;United States of America;Cuidado personal;Critica;505354201;4393
+Africa;Sudan;Frutas;Critica;566596543;7363
+Africa;Republic of the Congo;Material de oficina;Critica;263930499;1755
+Australia y Oceania;Federated States of Micronesia;Frutas;Critica;170842397;4917
+Africa;South Sudan;Frutas;Baja;931131064;1229
+Africa;Cape Verde;Frutas;Media;108907830;7102
+Australia y Oceania;Palau;Domestico;Alta;738596522;5979
+Africa;Bahrain;Material de oficina;Baja;974933469;3333
+Africa;Algeria;Material de oficina;Media;842967498;1670
+Africa;Botswana;Cuidado personal;Critica;888059937;5525
+Africa;Seychelles ;Domestico;Media;825884616;6466
+Africa;The Gambia;Material de oficina;Alta;892427861;8091
+Africa;Guinea-Bissau;Material de oficina;Baja;493988502;1030
+Africa;Pakistan;Verduras;Baja;457177865;7945
+Africa;Mauritania;Carnicos;Media;778919780;8527
+Asia;Thailand;Material de oficina;Alta;176450574;4501
+Africa;Afghanistan;Carnicos;Media;137319076;4621
+Africa;The Gambia;Ropa;Baja;869386613;9673
+Africa;Oman;Carnicos;Baja;850827014;7476
+Africa;Burkina Faso;Snacks;Alta;880126607;7876
+Africa;Cameroon;Ropa;Media;926084220;7755
+Africa;Burkina Faso;Cereales;Alta;577811181;6024
+Europa;Serbia;Snacks;Alta;394731318;8624
+Africa;Mauritius ;Domestico;Critica;556580960;3529
+Africa;Liberia;Material de oficina;Critica;413408935;5745
+Europa;Latvia;Cuidado personal;Critica;735576570;2308
+Asia;China;Ropa;Media;563757693;7284
+Australia y Oceania;New Zealand;Verduras;Baja;358938634;6773
+Africa;Sierra Leone;Snacks;Critica;652418220;3904
+Europa;Bulgaria;Material de oficina;Critica;695807778;3839
+Africa;Somalia;Material de oficina;Critica;711031138;8769
+Europa;Spain;Bebida;Alta;540324628;2919
+Europa;Cyprus;Cereales;Media;996237075;7544
+Africa;Namibia;Ropa;Media;711629807;5929
+Norteamerica;Greenland;Cereales;Alta;189676654;8392
+Africa;Rwanda;Domestico;Baja;453863942;7281
+Centroamerica y Caribe;The Bahamas;Material de oficina;Baja;797990500;1977
+Europa;Germany;Bebida;Alta;136167657;3890
+Europa;Cyprus;Bebida;Critica;152819240;1464
+Europa;Luxembourg;Snacks;Critica;352681577;5171
+Australia y Oceania;Tuvalu;Cereales;Alta;310803496;2516
+Europa;Bulgaria;Cosmeticos;Baja;122546327;3036
+Asia;Bangladesh;Frutas;Alta;853583896;3298
+Centroamerica y Caribe;El Salvador;Cuidado personal;Alta;489902532;1901
+Asia;China;Verduras;Media;687801063;4474
+Asia;Mongolia;Carnicos;Media;923890817;8678
+Australia y Oceania;Solomon Islands;Frutas;Alta;745095622;9207
+Africa;Mauritania;Cosmeticos;Baja;218651807;2783
+Asia;South Korea;Verduras;Media;382108199;3162
+Asia;Myanmar;Material de oficina;Baja;993326127;6130
+Africa;Botswana;Cereales;Baja;980479419;4503
+Europa;Portugal;Snacks;Critica;692054402;3131
+Europa;Spain;Verduras;Critica;546849906;3894
+Africa;Cote d'Ivoire;Bebida;Baja;583977258;703
+Europa;Russia;Alimento infantil;Critica;912860286;4499
+Australia y Oceania;Federated States of Micronesia;Ropa;Media;363235318;8257
+Africa;The Gambia;Carnicos;Alta;535151183;1982
+Europa;Luxembourg;Frutas;Alta;848969209;7710
+Africa;Liberia;Frutas;Critica;795363223;4507
+Africa;Burundi;Cosmeticos;Critica;385319554;3474
+Africa;Syria;Cereales;Alta;600137031;2739
+Norteamerica;United States of America;Ropa;Alta;241426980;2463
+Asia;Japan;Alimento infantil;Baja;881113231;9840
+Asia;Laos;Frutas;Baja;111432111;4093
+Europa;Germany;Verduras;Critica;994932448;1476
+Norteamerica;Greenland;Cuidado personal;Critica;814475572;276
+Centroamerica y Caribe;Jamaica;Carnicos;Alta;523235309;5810
+Europa;Switzerland;Verduras;Media;694697988;5427
+Europa;Sweden;Material de oficina;Media;172662436;3507
+Africa;Liberia;Bebida;Media;121239984;6460
+Australia y Oceania;Kiribati;Alimento infantil;Media;874854457;7730
+Europa;Malta;Carnicos;Media;588242185;2789
+Asia;Philippines;Cuidado personal;Baja;186451995;4144
+Africa;Comoros;Alimento infantil;Baja;214845216;6329
+Europa;Liechtenstein;Domestico;Baja;389095675;912
+Africa;Lebanon;Cereales;Baja;945189702;1492
+Norteamerica;Greenland;Cereales;Critica;389426124;8699
+Africa;Chad;Cereales;Media;448416268;5193
+Europa;Macedonia;Domestico;Baja;219083964;668
+Africa;United Arab Emirates;Cosmeticos;Alta;218665540;6847
+Africa;Qatar;Cereales;Alta;134709823;2485
+Africa;Iraq;Verduras;Alta;175078141;8367
+Europa;Kosovo;Material de oficina;Baja;617944324;2312
+Asia;Bhutan;Cosmeticos;Critica;461794698;4168
+Centroamerica y Caribe;Cuba;Ropa;Alta;575428092;815
+Norteamerica;Mexico;Alimento infantil;Media;547955834;1163
+Africa;Cote d'Ivoire;Bebida;Media;938801753;1156
+Africa;Nigeria;Cereales;Alta;127702176;8767
+Australia y Oceania;Vanuatu;Material de oficina;Alta;164705932;9000
+Africa;Kuwait;Verduras;Baja;920174348;8893
+Africa;Namibia;Carnicos;Media;534781253;2512
+Africa;Egypt;Verduras;Baja;369512975;5955
+Africa;Swaziland;Frutas;Critica;955668342;2354
+Centroamerica y Caribe;Antigua and Barbuda ;Carnicos;Critica;644858682;6869
+Asia;Sri Lanka;Verduras;Alta;559007823;1692
+Europa;Liechtenstein;Bebida;Media;540352094;1047
+Africa;Angola;Material de oficina;Critica;501440322;6189
+Asia;Brunei;Domestico;Critica;875133836;404
+Australia y Oceania;Samoa ;Ropa;Critica;364606463;4010
+Australia y Oceania;Marshall Islands;Frutas;Baja;893344533;9354
+Africa;Democratic Republic of the Congo;Frutas;Critica;855146872;5818
+Australia y Oceania;Tonga;Cosmeticos;Critica;964124810;4811
+Africa;Mozambique;Snacks;Critica;204702174;4777
+Africa;Kuwait;Carnicos;Media;781615293;6189
+Europa;Romania;Bebida;Alta;469912993;6552
+Africa;South Sudan;Cosmeticos;Critica;264956605;5402
+Asia;Malaysia;Snacks;Critica;332419955;9307
+Centroamerica y Caribe;Costa Rica;Snacks;Media;458289372;6864
+Europa;Croatia;Cuidado personal;Alta;498863685;3705
+Asia;Nepal;Bebida;Baja;830754220;7490
+Asia;Tajikistan;Alimento infantil;Alta;100884807;2911
+Europa;Serbia;Carnicos;Alta;176491773;6692
+Africa;Angola;Carnicos;Baja;295123946;2589
+Asia;Japan;Cuidado personal;Baja;214642655;6386
+Europa;Iceland;Carnicos;Media;663221728;903
+Europa;Cyprus;Ropa;Media;189347493;986
+Australia y Oceania;East Timor;Bebida;Alta;111818778;8516
+Asia;Tajikistan;Material de oficina;Baja;469746911;7405
+Africa;Somalia;Domestico;Critica;472555720;8594
+Europa;Spain;Ropa;Alta;749981534;5057
+Europa;Sweden;Cereales;Critica;202073180;6799
+Africa;Ethiopia;Domestico;Baja;949191987;5857
+Asia;Turkmenistan;Cuidado personal;Baja;682011783;1297
+Europa;Malta;Ropa;Baja;311518895;4219
+Africa;Malawi;Cosmeticos;Baja;819012153;2751
+Europa;Czech Republic;Material de oficina;Critica;106102883;7056
+Europa;Netherlands;Carnicos;Media;644714915;4325
+Europa;Sweden;Bebida;Baja;927084577;3783
+Africa;Saudi Arabia;Verduras;Critica;415760695;1684
+Africa;Turkey;Cereales;Media;893604600;6314
+Centroamerica y Caribe;Dominican Republic;Ropa;Baja;613790118;2991
+Asia;Uzbekistan;Cuidado personal;Alta;149803578;9063
+Africa;Kuwait;Snacks;Media;145443809;8910
+Australia y Oceania;Federated States of Micronesia;Ropa;Critica;864822137;8943
+Australia y Oceania;Samoa ;Material de oficina;Alta;842362391;2606
+Africa;Eritrea;Snacks;Baja;932800900;5370
+Asia;Singapore;Alimento infantil;Alta;261186492;9742
+Africa;Mauritania;Domestico;Media;272880494;257
+Asia;Bhutan;Ropa;Alta;683556735;8483
+Africa;Republic of the Congo;Bebida;Baja;829201543;8018
+Europa;Germany;Bebida;Media;116113746;9493
+Africa;Tunisia ;Cereales;Media;270904672;5567
+Asia;Myanmar;Cereales;Media;390498149;5935
+Europa;Romania;Cosmeticos;Media;992130506;2319
+Europa;Greece;Snacks;Critica;863350570;3474
+Africa;Benin;Cosmeticos;Baja;212019670;187
+Centroamerica y Caribe;Jamaica;Material de oficina;Critica;216311633;274
+Europa;Liechtenstein;Domestico;Alta;774712789;3585
+Norteamerica;Greenland;Alimento infantil;Critica;956021964;6999
+Europa;Romania;Cosmeticos;Alta;349350488;9428
+Asia;China;Cosmeticos;Alta;414122188;6813
+Australia y Oceania;East Timor;Domestico;Baja;430073392;7129
+Europa;Albania;Cuidado personal;Media;647252929;5380
+Asia;Laos;Frutas;Alta;936022126;8602
+Africa;Central African Republic;Material de oficina;Baja;337054812;864
+Europa;Netherlands;Carnicos;Critica;211337316;8263
+Australia y Oceania;Solomon Islands;Snacks;Media;190168464;3929
+Africa;Seychelles ;Ropa;Media;425159585;3024
+Asia;Kazakhstan;Carnicos;Baja;238234508;7740
+Europa;Hungary;Cosmeticos;Alta;371629559;2300
+Asia;Laos;Alimento infantil;Baja;737893569;7960
+Africa;Yemen;Ropa;Critica;869887864;8005
+Europa;Russia;Cuidado personal;Alta;370786273;2753
+Asia;Philippines;Cereales;Alta;264075124;4552
+Australia y Oceania;Marshall Islands;Frutas;Baja;743553245;2783
+Africa;Burkina Faso;Cuidado personal;Critica;723331964;8857
+Europa;Kosovo;Snacks;Media;987835109;1215
+Asia;North Korea;Material de oficina;Alta;141799008;333
+Asia;Bhutan;Snacks;Alta;460272490;3713
+Europa;Switzerland;Material de oficina;Media;238616883;893
+Africa;Libya;Cuidado personal;Alta;542506015;8440
+Centroamerica y Caribe;Honduras;Verduras;Alta;257926213;4953
+Africa;Benin;Alimento infantil;Media;141176307;6061
+Africa;Egypt;Carnicos;Media;568867623;9426
+Europa;Cyprus;Bebida;Media;187923991;9740
+Africa;Morocco;Cereales;Alta;865581738;3726
+Europa;Estonia;Bebida;Alta;939389693;5140
+Asia;South Korea;Alimento infantil;Critica;167209184;9768
+Asia;Vietnam;Cosmeticos;Media;177214038;427
+Africa;Syria;Snacks;Alta;417890584;1965
+Europa;Luxembourg;Ropa;Baja;408037650;6263
+Centroamerica y Caribe;Cuba;Cosmeticos;Alta;186766564;7232
+Asia;Maldives;Carnicos;Alta;763501155;5813
+Asia;Taiwan;Bebida;Media;967977750;4982
+Europa;Bosnia and Herzegovina;Snacks;Critica;600245177;4742
+Africa;Afghanistan;Cosmeticos;Baja;880664765;7129
+Norteamerica;Canada;Cereales;Media;399910342;1212
+Africa;Qatar;Carnicos;Media;968968236;8088
+Europa;Malta;Verduras;Baja;869137275;5889
+Africa;Bahrain;Verduras;Critica;702028787;4773
+Africa;Zambia;Frutas;Baja;239566600;1935
+Asia;Bangladesh;Ropa;Critica;673987042;6598
+Africa;Egypt;Carnicos;Media;567838943;5017
+Asia;Japan;Ropa;Critica;803983628;5477
+Centroamerica y Caribe;Jamaica;Cosmeticos;Media;535594928;3296
+Africa;Namibia;Alimento infantil;Media;336159169;5823
+Australia y Oceania;Federated States of Micronesia;Carnicos;Critica;849475181;7438
+Africa;Iran;Ropa;Media;539654290;4552
+Asia;Malaysia;Cereales;Alta;641120326;606
+Asia;Tajikistan;Verduras;Critica;208609616;1076
+Africa;Iran;Carnicos;Alta;167170989;8465
+Australia y Oceania;Samoa ;Carnicos;Critica;162165772;7311
+Africa;Botswana;Cosmeticos;Critica;809267795;9179
+Europa;Austria;Alimento infantil;Critica;544463384;7669
+Africa;Syria;Bebida;Alta;574051368;3411
+Africa;Senegal;Frutas;Critica;824643075;9066
+Africa;Mauritius ;Cuidado personal;Media;393162333;4326
+Africa;Cote d'Ivoire;Frutas;Alta;696845471;915
+Centroamerica y Caribe;Belize;Ropa;Alta;523241317;7588
+Africa;Morocco;Cereales;Baja;980211198;5131
+Australia y Oceania;Australia;Domestico;Baja;545928943;1361
+Africa;Senegal;Verduras;Baja;918880879;6127
+Centroamerica y Caribe;Antigua and Barbuda ;Verduras;Alta;267865836;6308
+Europa;Poland;Material de oficina;Alta;881995141;817
+Europa;Kosovo;Cuidado personal;Critica;620692622;5595
+Asia;Malaysia;Carnicos;Media;563694608;8616
+Centroamerica y Caribe;Guatemala;Bebida;Alta;961049926;4885
+Australia y Oceania;Vanuatu;Material de oficina;Baja;783119904;1437
+Centroamerica y Caribe;Nicaragua;Cuidado personal;Alta;870578372;2341
+Africa;Lesotho;Snacks;Media;784411656;3695
+Asia;Turkmenistan;Domestico;Critica;155918586;8629
+Africa;Saudi Arabia;Cosmeticos;Critica;936710488;2304
+Asia;Japan;Snacks;Media;648711192;6912
+Europa;Latvia;Domestico;Critica;934157025;6678
+Norteamerica;Greenland;Ropa;Critica;805596816;2855
+Centroamerica y Caribe;Costa Rica;Cereales;Alta;695891892;8730
+Asia;Japan;Cuidado personal;Baja;208216083;4621
+Europa;Cyprus;Cereales;Critica;366055715;2875
+Africa;Pakistan;Carnicos;Baja;463209617;2874
+Europa;Monaco;Cosmeticos;Media;313789117;6028
+Asia;China;Cereales;Critica;702218043;779
+Australia y Oceania;New Zealand;Carnicos;Alta;233232724;7601
+Centroamerica y Caribe;Guatemala;Alimento infantil;Baja;281881988;3999
+Africa;Libya;Snacks;Media;943527162;9509
+Europa;Liechtenstein;Carnicos;Media;583842074;699
+Africa;Democratic Republic of the Congo;Alimento infantil;Alta;788813054;6167
+Asia;Mongolia;Cuidado personal;Critica;514738929;1543
+Europa;Bosnia and Herzegovina;Frutas;Media;138231027;4487
+Centroamerica y Caribe;Cuba;Cereales;Critica;106213176;9694
+Asia;Bhutan;Snacks;Media;485921704;3885
+Asia;Laos;Material de oficina;Alta;514905440;817
+Asia;Turkmenistan;Cuidado personal;Baja;851025712;6275
+Australia y Oceania;Papua New Guinea;Alimento infantil;Baja;422456347;3076
+Africa;Qatar;Cosmeticos;Alta;477683675;6069
+Australia y Oceania;Palau;Ropa;Baja;535506522;7135
+Asia;Philippines;Cereales;Baja;635036218;184
+Australia y Oceania;Papua New Guinea;Carnicos;Baja;885696589;6158
+Africa;Liberia;Verduras;Baja;117223966;8031
+Africa;Iran;Ropa;Alta;829667174;5809
+Centroamerica y Caribe;Guatemala;Bebida;Critica;643387544;1527
+Australia y Oceania;Tuvalu;Snacks;Baja;849058902;4252
+Asia;Philippines;Material de oficina;Baja;557667577;5083
+Asia;Singapore;Ropa;Critica;750512397;2151
+Asia;Laos;Verduras;Media;229204690;5616
+Europa;Montenegro;Frutas;Alta;565668284;2671
+Centroamerica y Caribe;Barbados;Snacks;Media;252139508;2538
+Africa;Egypt;Snacks;Alta;551167190;1474
+Africa;Sudan;Domestico;Critica;545612657;7765
+Africa;Democratic Republic of the Congo;Snacks;Baja;288649737;6727
+Centroamerica y Caribe;Cuba;Cuidado personal;Baja;353764760;5709
+Africa;Ghana;Frutas;Media;484756553;9091
+Europa;Poland;Bebida;Media;945736443;3285
+Africa;Saudi Arabia;Bebida;Baja;271128261;1732
+Centroamerica y Caribe;Barbados;Alimento infantil;Baja;215668332;9907
+Europa;Bosnia and Herzegovina;Frutas;Alta;804405486;314
+Africa;Lebanon;Carnicos;Media;782701051;7489
+Europa;Latvia;Domestico;Critica;766228854;3000
+Australia y Oceania;Australia;Frutas;Media;990975224;445
+Africa;Jordan;Cereales;Media;863238990;455
+Europa;United Kingdom;Cuidado personal;Media;309631478;5690
+Centroamerica y Caribe;Haiti;Verduras;Baja;227076518;5843
+Asia;South Korea;Cuidado personal;Critica;232810437;2637
+Africa;Niger;Bebida;Critica;914382064;4827
+Africa;Mozambique;Verduras;Critica;679652726;3200
+Europa;Armenia;Cereales;Baja;706796252;5572
+Europa;Iceland;Frutas;Media;894298970;1793
+Centroamerica y Caribe;Panama;Bebida;Baja;310959708;8743
+Europa;Switzerland;Bebida;Baja;345889794;5331
+Africa;Mauritius ;Frutas;Alta;658513057;7502
+Europa;Andorra;Material de oficina;Media;528565824;3228
+Asia;Bangladesh;Material de oficina;Alta;206096923;7514
+Australia y Oceania;Tonga;Ropa;Baja;461467683;7397
+Centroamerica y Caribe;Jamaica;Bebida;Alta;335351932;6944
+Africa;Israel;Verduras;Media;288735997;2253
+Europa;France;Cuidado personal;Critica;852918708;6454
+Africa;Benin;Snacks;Critica;379511392;4709
+Asia;Philippines;Verduras;Media;890437877;9210
+Europa;Slovakia;Frutas;Alta;427934491;4180
+Asia;Laos;Domestico;Alta;704550063;875
+Australia y Oceania;Nauru;Carnicos;Critica;353145921;2580
+Africa;Benin;Snacks;Media;776895892;9614
+Centroamerica y Caribe;Guatemala;Verduras;Critica;299286305;4323
+Centroamerica y Caribe;Belize;Snacks;Alta;914115989;6090
+Africa;Tunisia ;Alimento infantil;Critica;635496270;6323
+Africa;Republic of the Congo;Carnicos;Alta;247850978;3467
+Australia y Oceania;Kiribati;Ropa;Baja;155916440;7994
+Europa;Albania;Verduras;Baja;834741485;7410
+Australia y Oceania;Palau;Carnicos;Baja;579687440;1250
+Africa;Angola;Cuidado personal;Alta;456428134;6083
+Africa;Swaziland;Snacks;Media;250949895;505
+Centroamerica y Caribe;Barbados;Verduras;Baja;719551551;149
+Europa;Sweden;Cosmeticos;Critica;438844430;2674
+Africa;Zambia;Verduras;Critica;755752360;2773
+Africa;Sierra Leone;Ropa;Critica;837511670;7169
+Africa;Sierra Leone;Cosmeticos;Media;821671187;9619
+Europa;Andorra;Verduras;Media;466092240;5906
+Africa;Seychelles ;Alimento infantil;Media;498948657;8850
+Europa;Andorra;Domestico;Baja;368726766;3299
+Centroamerica y Caribe;Costa Rica;Bebida;Baja;494225394;1132
+Africa;Burundi;Cosmeticos;Baja;914555871;6261
+Australia y Oceania;Fiji;Ropa;Media;839142024;9627
+Norteamerica;Canada;Bebida;Media;897720181;4206
+Asia;Philippines;Bebida;Critica;890339171;1
+Asia;Turkmenistan;Snacks;Baja;237360322;9049
+Europa;Ukraine;Ropa;Alta;229457461;417
+Asia;Indonesia;Cuidado personal;Media;877616918;5203
+Africa;Sao Tome and Principe;Verduras;Baja;463137519;1539
+Asia;Indonesia;Cuidado personal;Critica;487630593;9584
+Asia;India;Verduras;Critica;723019969;6531
+Africa;Israel;Alimento infantil;Media;561541974;1604
+Africa;Qatar;Verduras;Alta;365745437;1057
+Africa;Liberia;Domestico;Alta;118491685;3178
+Africa;South Sudan;Domestico;Alta;772954547;3282
+Europa;Latvia;Verduras;Media;202620351;8719
+Centroamerica y Caribe;Saint Lucia;Frutas;Baja;851287925;3869
+Africa;Mali;Verduras;Critica;283068597;5143
+Europa;Portugal;Bebida;Media;632386195;5983
+Asia;Malaysia;Snacks;Critica;953977048;1863
+Europa;Spain;Cosmeticos;Baja;372889983;5287
+Europa;Slovenia;Ropa;Media;334486329;793
+Africa;Jordan;Verduras;Media;554439914;9946
+Centroamerica y Caribe;Honduras;Domestico;Media;368737065;6347
+Africa;Lebanon;Material de oficina;Baja;983676612;624
+Africa;Tunisia ;Cereales;Media;525869882;5439
+Europa;Romania;Frutas;Alta;792240703;484
+Europa;Netherlands;Cereales;Alta;500025403;7483
+Africa;Azerbaijan;Frutas;Baja;236772811;5191
+Europa;Slovenia;Domestico;Media;210344254;4394
+Africa;Chad;Ropa;Critica;698913562;2909
+Australia y Oceania;Nauru;Verduras;Media;700967061;585
+Africa;Kenya;Ropa;Baja;185303580;4302
+Centroamerica y Caribe;Jamaica;Cuidado personal;Alta;541034448;2971
+Europa;Bosnia and Herzegovina;Alimento infantil;Baja;527583491;2534
+Centroamerica y Caribe;Antigua and Barbuda ;Cuidado personal;Critica;324687039;965
+Europa;Romania;Cosmeticos;Media;182393920;3269
+Asia;Kazakhstan;Frutas;Critica;871065461;6482
+Africa;Burkina Faso;Material de oficina;Alta;531375491;4671
+Centroamerica y Caribe;Saint Lucia;Cereales;Baja;524310338;3935
+Centroamerica y Caribe;Jamaica;Snacks;Alta;481168830;7404
+Africa;Bahrain;Domestico;Media;553562295;239
+Africa;Pakistan;Cereales;Critica;963414561;4633
+Centroamerica y Caribe;Saint Lucia;Cereales;Baja;652961957;4808
+Africa;Angola;Snacks;Critica;434753310;2021
+Europa;Kosovo;Cosmeticos;Baja;741649949;9556
+Europa;Georgia;Frutas;Baja;276825702;7732
+Australia y Oceania;Nauru;Domestico;Media;963766896;8896
+Australia y Oceania;Solomon Islands;Material de oficina;Baja;296272361;2430
+Asia;Thailand;Alimento infantil;Critica;788453423;9744
+Europa;Russia;Cereales;Media;524733912;9280
+Australia y Oceania;Samoa ;Frutas;Media;809850156;1513
+Australia y Oceania;Vanuatu;Snacks;Baja;318850982;3946
+Africa;Lesotho;Frutas;Alta;947097718;6116
+Australia y Oceania;Solomon Islands;Bebida;Alta;160264194;4591
+Asia;Taiwan;Snacks;Critica;444336736;7969
+Asia;Singapore;Verduras;Baja;755614173;1880
+Africa;Ghana;Verduras;Media;570707833;3985
+Europa;Belarus;Bebida;Alta;336541545;8977
+Africa;Lesotho;Snacks;Critica;120351636;3578
+Africa;Democratic Republic of the Congo;Cereales;Critica;959686934;1545
+Europa;San Marino;Frutas;Baja;812408769;8663
+Africa;Mauritius ;Frutas;Media;406690967;7749
+Europa;Kosovo;Verduras;Media;991019856;3653
+Africa;Tunisia ;Verduras;Alta;284194266;8254
+Europa;Czech Republic;Material de oficina;Alta;125325524;5463
+Australia y Oceania;Federated States of Micronesia;Cosmeticos;Baja;623837459;6222
+Europa;Estonia;Domestico;Media;609466397;3506
+Asia;Nepal;Frutas;Baja;782261168;7318
+Africa;Democratic Republic of the Congo;Bebida;Media;562583100;9696
+Asia;Singapore;Snacks;Alta;341106021;9707
+Asia;India;Bebida;Alta;128816258;8448
+Africa;Angola;Cereales;Media;907012641;4051
+Asia;Kyrgyzstan;Alimento infantil;Critica;577306497;6676
+Africa;Burundi;Domestico;Critica;711621654;3516
+Africa;South Africa;Material de oficina;Media;702194440;3794
+Europa;Georgia;Cereales;Baja;911573684;3765
+Africa;The Gambia;Bebida;Baja;422620713;1715
+Asia;Nepal;Domestico;Critica;188509356;2963
+Europa;Albania;Verduras;Media;782725942;4855
+Centroamerica y Caribe;Dominica;Material de oficina;Critica;149069297;1772
+Africa;Oman;Bebida;Media;351650750;126
+Africa;Ethiopia;Cereales;Media;824894130;3359
+Centroamerica y Caribe;Saint Kitts and Nevis ;Bebida;Alta;623535764;6944
+Africa;The Gambia;Verduras;Media;672624480;3386
+Africa;Rwanda;Cosmeticos;Media;617521607;7221
+Asia;Japan;Frutas;Critica;173900973;17
+Europa;Ireland;Verduras;Baja;477748906;5373
+Europa;Andorra;Alimento infantil;Media;935364234;3918
+Asia;Kazakhstan;Snacks;Critica;573358285;8313
+Europa;Italy;Verduras;Alta;288654887;8251
+Africa;Tanzania;Snacks;Baja;598490369;5455
+Centroamerica y Caribe;Antigua and Barbuda ;Ropa;Critica;290413558;8680
+Africa;Qatar;Cosmeticos;Media;472285783;8713
+Africa;Jordan;Carnicos;Media;522280871;3371
+Centroamerica y Caribe;El Salvador;Domestico;Baja;338885152;2502
+Australia y Oceania;Tonga;Domestico;Baja;790897452;2986
+Africa;Madagascar;Carnicos;Alta;567429101;3735
+Africa;Seychelles ;Alimento infantil;Media;227903926;691
+Africa;Swaziland;Bebida;Media;852058255;1827
+Australia y Oceania;Tonga;Cereales;Critica;889940917;2149
+Africa;Azerbaijan;Bebida;Media;211913239;8692
+Africa;Madagascar;Cereales;Critica;558649051;5523
+Africa;Iran;Alimento infantil;Alta;591134679;8743
+Australia y Oceania;New Zealand;Cosmeticos;Baja;840668952;1479
+Africa;Democratic Republic of the Congo;Domestico;Critica;558863198;8894
+Europa;Lithuania;Alimento infantil;Baja;867641246;3180
+Africa;Seychelles ;Cereales;Baja;709239423;8561
+Europa;Croatia;Cereales;Critica;896206557;6291
+Africa;Swaziland;Alimento infantil;Critica;961403977;9656
+Asia;Singapore;Snacks;Alta;508005511;8975
+Europa;Germany;Frutas;Critica;559497487;6595
+Europa;Norway;Cosmeticos;Baja;409678733;1896
+Asia;Malaysia;Cosmeticos;Media;772660577;6290
+Europa;Austria;Bebida;Critica;632866847;8219
+Asia;Malaysia;Snacks;Media;395033872;8156
+Africa;Lesotho;Cuidado personal;Alta;534210479;3607
+Africa;Benin;Frutas;Alta;245757997;4107
+Europa;Greece;Material de oficina;Baja;595350253;6225
+Europa;Lithuania;Cereales;Baja;468973577;8558
+Africa;Comoros;Carnicos;Alta;622926795;6736
+Asia;Myanmar;Domestico;Media;533821237;8421
+Africa;Ethiopia;Cuidado personal;Baja;648580729;8306
+Africa;Guinea;Cereales;Critica;134441602;3112
+Centroamerica y Caribe;Saint Lucia;Cosmeticos;Baja;928952682;6597
+Africa;Eritrea;Material de oficina;Media;989975297;4545
+Africa;Niger;Cuidado personal;Baja;145683276;9774
+Centroamerica y Caribe;Barbados;Cosmeticos;Media;544562947;7132
+Australia y Oceania;Tonga;Snacks;Critica;805413138;8501
+Asia;Indonesia;Bebida;Baja;967345178;7789
+Asia;Indonesia;Ropa;Alta;239782893;5941
+Africa;Lebanon;Cuidado personal;Critica;152462613;5930
+Africa;Afghanistan;Ropa;Critica;505433166;7760
+Europa;Hungary;Frutas;Baja;719055879;3468
+Africa;Gabon;Cosmeticos;Media;284004580;2121
+Asia;Mongolia;Material de oficina;Media;111265599;4818
+Norteamerica;Canada;Alimento infantil;Baja;282137763;9689
+Africa;Afghanistan;Domestico;Alta;498232400;6894
+Europa;Liechtenstein;Cereales;Media;531473338;3626
+Centroamerica y Caribe;Honduras;Alimento infantil;Critica;674096906;9109
+Norteamerica;Mexico;Alimento infantil;Alta;388651931;9598
+Africa;Liberia;Material de oficina;Media;557999742;3378
+Europa;Ireland;Snacks;Alta;335314166;5768
+Africa;Morocco;Carnicos;Critica;294081532;4115
+Centroamerica y Caribe;Dominica;Ropa;Media;178100669;2801
+Africa;Cameroon;Domestico;Media;251482903;8234
+Asia;Nepal;Carnicos;Baja;848652064;3860
+Europa;Albania;Cereales;Critica;124344480;5150
+Asia;Maldives;Cuidado personal;Baja;803608977;4609
+Africa;Turkey;Ropa;Alta;731806886;6775
+Australia y Oceania;New Zealand;Verduras;Critica;524612033;3213
+Africa;Lebanon;Cereales;Alta;418010747;7524
+Europa;Luxembourg;Ropa;Baja;718301856;336
+Africa;Togo;Ropa;Media;452096688;4311
+Europa;Hungary;Cuidado personal;Alta;516319072;9142
+Europa;Lithuania;Domestico;Baja;528205335;6551
+Asia;Bangladesh;Material de oficina;Media;175304305;5294
+Asia;China;Bebida;Baja;565477311;6157
+Africa;Equatorial Guinea;Carnicos;Media;176898181;6958
+Europa;Belgium;Cereales;Media;708053243;7544
+Africa;Turkey;Snacks;Alta;327741324;4796
+Asia;Indonesia;Cuidado personal;Media;425073754;7625
+Europa;Russia;Frutas;Baja;659474360;1973
+Europa;Armenia;Carnicos;Media;310679471;5814
+Centroamerica y Caribe;Belize;Cosmeticos;Critica;528737914;4153
+Europa;Finland;Snacks;Alta;284011018;4026
+Australia y Oceania;Samoa ;Alimento infantil;Baja;417172610;9501
+Africa;The Gambia;Cosmeticos;Critica;489209020;6675
+Europa;Greece;Domestico;Baja;131419074;8679
+Europa;Finland;Bebida;Critica;395414102;674
+Centroamerica y Caribe;Trinidad and Tobago;Cereales;Baja;603117930;4853
+Asia;Vietnam;Frutas;Baja;596766889;5439
+Asia;Indonesia;Cuidado personal;Media;288909804;3686
+Europa;Norway;Cereales;Media;112408006;2882
+Africa;Zimbabwe;Cuidado personal;Critica;570435321;3343
+Africa;Namibia;Alimento infantil;Critica;886478078;7418
+Australia y Oceania;Tonga;Cereales;Alta;354335105;4487
+Asia;Malaysia;Carnicos;Critica;588117730;5960
+Africa;Egypt;Bebida;Critica;572249782;282
+Africa;Saudi Arabia;Domestico;Baja;711467587;7924
+Centroamerica y Caribe;Panama;Material de oficina;Critica;580819976;6393
+Centroamerica y Caribe;Haiti;Material de oficina;Media;275668275;5223
+Africa;Mauritania;Cereales;Alta;861686313;983
+Africa;The Gambia;Carnicos;Critica;324860417;2271
+Europa;Ireland;Snacks;Critica;321489417;4718
+Europa;San Marino;Cosmeticos;Baja;328184640;5983
+Africa;United Arab Emirates;Material de oficina;Baja;791869914;760
+Africa;Mauritania;Cuidado personal;Media;879781568;5771
+Centroamerica y Caribe;Nicaragua;Carnicos;Critica;729468429;4773
+Asia;Malaysia;Ropa;Alta;998791825;3551
+Africa;Zambia;Cosmeticos;Alta;615925586;4923
+Africa;Malawi;Frutas;Baja;829356038;3737
+Africa;Lesotho;Cuidado personal;Alta;257882010;1872
+Africa;Malawi;Carnicos;Baja;740614831;3241
+Africa;Iraq;Carnicos;Critica;586978328;8786
+Asia;Turkmenistan;Domestico;Media;426708829;1480
+Africa;United Arab Emirates;Material de oficina;Baja;959855163;1328
+Asia;Maldives;Domestico;Alta;706778657;366
+Europa;Romania;Domestico;Critica;958153140;7661
+Africa;Lebanon;Cosmeticos;Critica;824964940;4313
+Europa;Portugal;Cosmeticos;Alta;388512885;8451
+Europa;Bosnia and Herzegovina;Material de oficina;Critica;250408303;236
+Africa;Iraq;Snacks;Critica;182575023;6861
+Europa;Moldova ;Ropa;Critica;477249372;7549
+Africa;Liberia;Cereales;Alta;596980178;8556
+Africa;Sudan;Alimento infantil;Baja;524628770;8166
+Africa;Democratic Republic of the Congo;Cosmeticos;Media;313368976;1698
+Africa;Morocco;Snacks;Media;536687123;6501
+Centroamerica y Caribe;Saint Vincent and the Grenadines;Frutas;Media;938382041;6954
+Africa;Pakistan;Domestico;Baja;882565057;9468
+Europa;Sweden;Cereales;Alta;703659999;7485
+Australia y Oceania;Palau;Cuidado personal;Critica;356403195;6480
+Europa;Poland;Cereales;Critica;765843474;8958
+Africa;Equatorial Guinea;Carnicos;Critica;677342164;9453
+Australia y Oceania;Kiribati;Domestico;Media;706573092;9535
+Asia;Myanmar;Cereales;Critica;189522588;2800
+Centroamerica y Caribe;Haiti;Domestico;Critica;332489478;9880
+Africa;Mauritius ;Snacks;Media;162085092;3435
+Europa;Luxembourg;Cereales;Critica;575233256;3158
+Australia y Oceania;Tonga;Ropa;Baja;289170300;773
+Europa;Ukraine;Verduras;Alta;791445052;5033
+Africa;Sudan;Snacks;Alta;489918839;6727
+Europa;France;Domestico;Baja;562765491;3669
+Asia;Laos;Ropa;Media;908471333;5711
+Centroamerica y Caribe;Dominica;Cosmeticos;Critica;595835196;9730
+Europa;Estonia;Snacks;Alta;113968408;4639
+Africa;Afghanistan;Cuidado personal;Critica;922294795;6380
+Africa;Eritrea;Frutas;Critica;500550687;2926
+Africa;Oman;Carnicos;Alta;898784911;9283
+Centroamerica y Caribe;Cuba;Snacks;Media;187358796;2486
+Africa;Oman;Cereales;Critica;106946170;6603
+Europa;Luxembourg;Material de oficina;Alta;218533360;7733
+Africa;Namibia;Material de oficina;Baja;153419196;9004
+Asia;India;Frutas;Alta;963215005;5580
+Australia y Oceania;Palau;Verduras;Alta;169844615;9651
+Europa;Serbia;Cuidado personal;Alta;315544354;5441
+Africa;Mauritania;Verduras;Critica;412863051;4206
+Asia;Maldives;Frutas;Alta;894662034;9232
+Africa;Liberia;Cuidado personal;Critica;464115130;836
+Europa;Greece;Bebida;Media;144708669;1366
+Centroamerica y Caribe;Dominica;Frutas;Baja;130241477;202
+Asia;Vietnam;Cereales;Critica;234824883;8756
+Asia;Sri Lanka;Cereales;Alta;342882716;5470
+Europa;Portugal;Domestico;Media;859151303;818
+Norteamerica;United States of America;Carnicos;Critica;458679473;2304
+Centroamerica y Caribe;Jamaica;Snacks;Critica;136828553;9464
+Europa;Cyprus;Alimento infantil;Alta;959272372;8867
+Africa;Iran;Cereales;Media;911997258;9110
+Asia;Sri Lanka;Verduras;Critica;751302039;5824
+Australia y Oceania;East Timor;Snacks;Media;853798043;6669
+Africa;Niger;Carnicos;Critica;766409099;6338
+Australia y Oceania;Australia;Frutas;Media;556371533;1555
+Africa;Botswana;Alimento infantil;Media;361234176;6075
+Europa;Portugal;Frutas;Media;838858354;5683
+Asia;South Korea;Bebida;Alta;917417895;3197
+Asia;Philippines;Carnicos;Media;945399129;3466
+Centroamerica y Caribe;Saint Vincent and the Grenadines;Carnicos;Baja;441600883;8369
+Centroamerica y Caribe;Panama;Verduras;Critica;345134484;1818
+Europa;Italy;Carnicos;Critica;765423762;4756
+Asia;Tajikistan;Alimento infantil;Media;532205045;154
+Europa;Montenegro;Verduras;Media;345527160;8020
+Africa;Sao Tome and Principe;Verduras;Critica;525751435;388
+Africa;Somalia;Verduras;Baja;563551700;6326
+Europa;Italy;Alimento infantil;Baja;469914281;6933
+Europa;Poland;Carnicos;Alta;326138007;339
+Europa;Ukraine;Material de oficina;Critica;733834207;6704
+Asia;Cambodia;Domestico;Critica;564926707;3221
+Europa;Bosnia and Herzegovina;Ropa;Critica;111651837;9115
+Asia;Philippines;Verduras;Media;636558425;639
+Asia;Japan;Snacks;Alta;322507798;6079
+Asia;Turkmenistan;Ropa;Alta;122673785;754
+Europa;Andorra;Verduras;Media;610542714;2012
+Africa;Kenya;Alimento infantil;Baja;629913413;4232
+Africa;Mozambique;Ropa;Alta;444897210;3826
+Australia y Oceania;Solomon Islands;Snacks;Alta;389917933;4236
+Africa;Democratic Republic of the Congo;Cosmeticos;Alta;419711911;936
+Africa;Uganda;Ropa;Baja;559327971;6431
+Europa;Albania;Material de oficina;Alta;454127442;5257
+Australia y Oceania;Samoa ;Cereales;Critica;719784152;8981
+Asia;Indonesia;Verduras;Alta;692284429;1201
+Africa;South Africa;Snacks;Baja;677927100;2549
+Africa;Malawi;Cereales;Baja;603323495;5684
+Europa;United Kingdom;Ropa;Baja;465397441;300
+Centroamerica y Caribe;Jamaica;Alimento infantil;Alta;781385266;8119
+Asia;Nepal;Material de oficina;Media;338835799;7898
+Africa;Mali;Alimento infantil;Critica;245610368;421
+Asia;China;Alimento infantil;Alta;779882800;3506
+Africa;Togo;Cuidado personal;Baja;940139424;7002
+Australia y Oceania;Solomon Islands;Domestico;Alta;695179069;7790
+Africa;Central African Republic;Frutas;Critica;534113061;4779
+Africa;Swaziland;Cosmeticos;Baja;116365230;3912
+Africa;United Arab Emirates;Cereales;Media;521671903;3164
+Australia y Oceania;Fiji;Bebida;Baja;200081908;7538
+Africa;Swaziland;Cosmeticos;Critica;821956574;4071
+Europa;Vatican City;Verduras;Alta;527969729;6830
+Asia;Thailand;Bebida;Baja;679107701;1915
+Europa;Georgia;Verduras;Alta;906669318;2454
+Africa;Guinea-Bissau;Snacks;Baja;462265908;3610
+Europa;Estonia;Snacks;Baja;467821300;7573
+Africa;Swaziland;Cosmeticos;Alta;765571820;8569
+Centroamerica y Caribe;Trinidad and Tobago;Cosmeticos;Critica;368066298;7852
+Africa;Ghana;Domestico;Media;608166062;8707
+Africa;Djibouti;Ropa;Alta;189044940;1454
+Australia y Oceania;New Zealand;Cereales;Critica;134189260;8439
+Africa;Syria;Cuidado personal;Baja;637397849;9043
+Europa;Albania;Ropa;Alta;612782037;4677
+Asia;Taiwan;Material de oficina;Critica;844765651;3783
+Africa;Ethiopia;Bebida;Media;838085019;6836
+Europa;United Kingdom;Snacks;Media;167788970;1340
+Africa;Cape Verde;Material de oficina;Baja;729238831;6830
+Africa;Tanzania;Alimento infantil;Media;888108432;9876
+Centroamerica y Caribe;Trinidad and Tobago;Snacks;Alta;430384099;9074
+Africa;Togo;Cereales;Alta;112364661;55
+Europa;Montenegro;Domestico;Alta;310661447;480
+Europa;Russia;Ropa;Media;572198283;5042
+Asia;Nepal;Cereales;Media;964211499;464
+Africa;Kenya;Domestico;Alta;724249923;501
+Africa;Zimbabwe;Alimento infantil;Critica;510174882;940
+Africa;Turkey;Bebida;Alta;150160205;4596
+Europa;Portugal;Bebida;Media;892692220;6320
+Centroamerica y Caribe;Costa Rica;Domestico;Media;456569755;7991
+Norteamerica;Canada;Material de oficina;Media;680904138;3520
+Centroamerica y Caribe;Trinidad and Tobago;Domestico;Media;775119197;3850
+Africa;Iran;Carnicos;Baja;468951261;1954
+Africa;Burundi;Material de oficina;Baja;462449157;7837
+Africa;Cameroon;Cosmeticos;Alta;175974214;3535
+Asia;Maldives;Cosmeticos;Baja;900200259;8116
+Centroamerica y Caribe;Nicaragua;Cereales;Critica;846113622;2678
+Europa;Ukraine;Alimento infantil;Alta;995013129;5351
+Africa;Madagascar;Cuidado personal;Critica;148510110;6297
+Australia y Oceania;Australia;Ropa;Media;778528392;2707
+Africa;Somalia;Bebida;Media;477304303;3805
+Europa;San Marino;Snacks;Alta;507386672;5846
+Africa;Turkey;Snacks;Critica;851636826;7117
+Centroamerica y Caribe;Grenada;Carnicos;Alta;663228595;2934
+Europa;Lithuania;Cereales;Baja;515648305;647
+Australia y Oceania;Papua New Guinea;Bebida;Alta;152694785;4635
+Europa;Serbia;Cereales;Alta;738479363;1309
+Europa;Ukraine;Snacks;Media;807425868;4112
+Norteamerica;Greenland;Bebida;Critica;314270627;8517
+Europa;Lithuania;Domestico;Baja;184062469;7030
+Africa;South Sudan;Cuidado personal;Baja;962162721;4185
+Asia;Maldives;Ropa;Critica;564245212;1552
+Asia;Kazakhstan;Domestico;Media;126296269;2728
+Africa;Kuwait;Cosmeticos;Baja;854614722;8343
+Africa;Rwanda;Cuidado personal;Alta;875811898;1058
+Africa;Cameroon;Cuidado personal;Critica;186811625;566
+Europa;Czech Republic;Carnicos;Critica;204850232;8591
+Africa;Equatorial Guinea;Domestico;Critica;617476546;3887
+Africa;Liberia;Frutas;Critica;732551896;7240
+Africa;The Gambia;Cuidado personal;Alta;828250110;6468
+Africa;Liberia;Cuidado personal;Media;803057515;1419
+Europa;Monaco;Material de oficina;Media;625772941;8974
+Asia;Thailand;Snacks;Alta;785507714;8043
+Africa;Cape Verde;Bebida;Critica;941685664;4569
+Africa;Rwanda;Frutas;Media;374043118;6526
+Africa;Chad;Cuidado personal;Media;232628905;8917
+Africa;Turkey;Cuidado personal;Baja;387804353;8781
+Africa;Tanzania;Ropa;Critica;780243289;183
+Africa;Togo;Cuidado personal;Media;970932042;9222
+Australia y Oceania;Marshall Islands;Carnicos;Alta;591169440;9029
+Centroamerica y Caribe;Cuba;Domestico;Baja;692566812;4765
+Africa;Guinea-Bissau;Material de oficina;Baja;597047984;8621
+Europa;Georgia;Bebida;Alta;146849286;4822
+Centroamerica y Caribe;The Bahamas;Frutas;Alta;154519546;4622
+Europa;Ukraine;Frutas;Critica;152920091;1308
+Africa;Djibouti;Cereales;Critica;645224750;5197
+Centroamerica y Caribe;Honduras;Material de oficina;Critica;854919850;8637
+Australia y Oceania;Palau;Cereales;Critica;975804221;1008
+Europa;Portugal;Domestico;Baja;821989190;3723
+Africa;Iraq;Alimento infantil;Baja;277898585;5222
+Asia;Philippines;Verduras;Baja;648268735;5979
+Centroamerica y Caribe;Barbados;Frutas;Critica;608148467;3501
+Africa;Mozambique;Cereales;Baja;252899110;7321
+Europa;Vatican City;Frutas;Alta;648194491;4009
+Africa;Kuwait;Snacks;Alta;680020940;2163
+Africa;Gabon;Alimento infantil;Critica;204677283;7411
+Asia;Brunei;Ropa;Media;498774850;7417
+Africa;Iran;Frutas;Alta;209237468;6871
+Europa;Czech Republic;Cosmeticos;Critica;303301465;2498
+Australia y Oceania;Nauru;Carnicos;Alta;918515670;8053
+Europa;Monaco;Snacks;Baja;912741410;9321
+Europa;Vatican City;Cereales;Baja;114152514;9121
+Africa;Swaziland;Cuidado personal;Baja;671235311;2300
+Centroamerica y Caribe;Barbados;Alimento infantil;Media;302788627;738
+Europa;Slovakia;Cuidado personal;Media;847923791;8347
+Australia y Oceania;Tuvalu;Alimento infantil;Alta;616064631;6070
+Europa;Austria;Frutas;Media;236947476;6879
+Australia y Oceania;Tonga;Domestico;Alta;410621154;779
+Centroamerica y Caribe;Dominica;Frutas;Baja;557446992;9807
+Australia y Oceania;Samoa ;Cosmeticos;Alta;168098819;3031
+Australia y Oceania;Kiribati;Verduras;Alta;153562963;1548
+Centroamerica y Caribe;Panama;Ropa;Baja;595138251;3489
+Asia;Uzbekistan;Alimento infantil;Baja;294436013;9014
+Africa;Swaziland;Alimento infantil;Critica;823380076;5317
+Africa;Saudi Arabia;Frutas;Alta;674206769;1620
+Africa;Zambia;Material de oficina;Alta;209464919;4179
+Norteamerica;Greenland;Alimento infantil;Alta;312015855;1280
+Asia;Turkmenistan;Carnicos;Baja;135033404;8240
+Centroamerica y Caribe;El Salvador;Alimento infantil;Media;252003896;2408
+Africa;Pakistan;Alimento infantil;Alta;406726157;8163
+Africa;Libya;Cuidado personal;Media;863311517;1917
+Asia;Taiwan;Bebida;Critica;156183803;7113
+Europa;Macedonia;Bebida;Baja;940079343;9223
+Australia y Oceania;Solomon Islands;Domestico;Alta;540046966;753
+Norteamerica;Mexico;Bebida;Media;401447999;6239
+Africa;Somalia;Cuidado personal;Alta;239956271;7248
+Asia;Taiwan;Frutas;Media;291558110;7379
+Centroamerica y Caribe;Cuba;Domestico;Critica;862552344;7261
+Australia y Oceania;Federated States of Micronesia;Frutas;Critica;979550302;9557
+Australia y Oceania;Australia;Domestico;Alta;639475810;3958
+Asia;Myanmar;Cereales;Alta;359565198;2187
+Europa;Montenegro;Cereales;Baja;727367293;3001
+Africa;Nigeria;Ropa;Media;150743424;7184
+Centroamerica y Caribe;The Bahamas;Verduras;Alta;707867419;2555
+Africa;Ethiopia;Snacks;Alta;497225606;8961
+Australia y Oceania;Nauru;Verduras;Alta;387616813;3283
+Centroamerica y Caribe;Haiti;Domestico;Baja;868152368;4433
+Centroamerica y Caribe;Antigua and Barbuda ;Snacks;Alta;698256099;8351
+Europa;Slovenia;Carnicos;Baja;957664334;3013
+Norteamerica;Greenland;Material de oficina;Baja;996425902;3422
+Africa;Burundi;Cosmeticos;Critica;684902131;6615
+Europa;Czech Republic;Material de oficina;Alta;863766849;6660
+Africa;Equatorial Guinea;Material de oficina;Media;194006383;9655
+Centroamerica y Caribe;Dominican Republic;Ropa;Alta;106919562;8729
+Europa;Poland;Cuidado personal;Critica;754117715;9045
+Europa;Albania;Frutas;Critica;557524669;2794
+Africa;Sudan;Snacks;Baja;259376752;4200
+Norteamerica;Canada;Carnicos;Baja;672222793;4517
+Europa;Czech Republic;Cereales;Baja;428924119;7033
+Africa;Madagascar;Domestico;Critica;932654559;2065
+Europa;Estonia;Bebida;Alta;506900441;1960
+Africa;Ethiopia;Ropa;Media;245460593;6099
+Africa;Republic of the Congo;Snacks;Media;862446343;5893
+Europa;Croatia;Domestico;Critica;442281520;9785
+Europa;Switzerland;Bebida;Alta;289702451;8248
+Africa;Angola;Bebida;Critica;879757964;8787
+Asia;Cambodia;Cereales;Alta;507809388;937
+Africa;Pakistan;Domestico;Critica;239530551;1268
+Africa;Malawi;Alimento infantil;Baja;760907781;8376
+Africa;Botswana;Cereales;Baja;128239905;7893
+Centroamerica y Caribe;Saint Vincent and the Grenadines;Alimento infantil;Critica;518138253;7478
+Australia y Oceania;Kiribati;Snacks;Alta;577526652;1825
+Centroamerica y Caribe;Honduras;Material de oficina;Baja;373641431;7657
+Africa;Israel;Carnicos;Baja;944031417;8730
+Asia;Brunei;Bebida;Baja;246557939;828
+Africa;Senegal;Material de oficina;Baja;809394824;6770
+Europa;Iceland;Verduras;Alta;281028401;1404
+Centroamerica y Caribe;Haiti;Material de oficina;Baja;880257499;6610
+Europa;Switzerland;Alimento infantil;Media;846193444;6299
+Europa;Italy;Carnicos;Alta;288260066;1414
+Europa;Romania;Cereales;Media;736193692;4928
+Europa;Georgia;Cereales;Critica;190043151;6846
+Norteamerica;United States of America;Carnicos;Media;770169770;9205
+Australia y Oceania;Kiribati;Material de oficina;Critica;167247378;1071
+Europa;Bosnia and Herzegovina;Snacks;Critica;192262303;3543
+Africa;Mauritius ;Cuidado personal;Media;926513373;4751
+Norteamerica;Greenland;Carnicos;Media;271611917;4857
+Africa;Zimbabwe;Material de oficina;Critica;699481761;1052
+Europa;Belgium;Ropa;Media;702359235;2560
+Europa;Luxembourg;Verduras;Media;642793166;5637
+Africa;Sudan;Material de oficina;Baja;503644883;8568
+Africa;Cote d'Ivoire;Cuidado personal;Alta;338088214;6670
+Africa;Rwanda;Cereales;Media;719609487;7293
+Norteamerica;Mexico;Verduras;Media;492007529;4816
+Australia y Oceania;Tuvalu;Verduras;Critica;819393670;5651
+Africa;Guinea-Bissau;Frutas;Critica;236191737;3239
+Europa;Greece;Cereales;Critica;497138059;3054
+Centroamerica y Caribe;Haiti;Bebida;Baja;727281463;7601
+Africa;Yemen;Carnicos;Media;571983277;1417
+Europa;Russia;Cuidado personal;Baja;646917331;6069
+Africa;Tunisia ;Alimento infantil;Media;288069951;5155
+Asia;India;Verduras;Media;701739966;9305
+Asia;Taiwan;Cereales;Alta;914538705;1181
+Africa;Morocco;Snacks;Alta;923389995;474
+Africa;Zimbabwe;Bebida;Media;345530164;8909
+Africa;Lebanon;Ropa;Baja;668508040;5240
+Australia y Oceania;Federated States of Micronesia;Material de oficina;Alta;300184953;253
+Europa;Macedonia;Frutas;Baja;418734729;1766
+Africa;Ghana;Cosmeticos;Media;922643697;9628
+Norteamerica;Greenland;Material de oficina;Alta;880710685;718
+Africa;Bahrain;Domestico;Baja;782047021;3947
+Europa;Serbia;Alimento infantil;Critica;286076533;5258
+Africa;Lebanon;Alimento infantil;Alta;472535550;2625
+Europa;Monaco;Carnicos;Alta;691472899;1052
+Africa;Iran;Alimento infantil;Alta;813249909;7575
+Africa;Mauritius ;Frutas;Media;778540408;6263
+Centroamerica y Caribe;Saint Kitts and Nevis ;Carnicos;Critica;148330724;3212
+Europa;Bulgaria;Frutas;Baja;353919684;1554
+Europa;Italy;Ropa;Media;646918618;6450
+Africa;Namibia;Verduras;Baja;349251353;91
+Europa;San Marino;Bebida;Media;203154218;6702
+Centroamerica y Caribe;The Bahamas;Bebida;Baja;121176040;7538
+Africa;Lebanon;Alimento infantil;Baja;536178147;5884
+Australia y Oceania;Australia;Verduras;Alta;151334369;2058
+Asia;Tajikistan;Cuidado personal;Baja;890131032;8408
+Centroamerica y Caribe;El Salvador;Domestico;Alta;246366965;4315
+Asia;Indonesia;Cereales;Baja;734153497;1189
+Europa;Sweden;Cuidado personal;Media;437914454;7473
+Australia y Oceania;Tonga;Domestico;Alta;662386167;3641
+Africa;Mozambique;Ropa;Media;982617461;7198
+Europa;Andorra;Cosmeticos;Critica;593969666;7678
+Australia y Oceania;Solomon Islands;Verduras;Alta;562116611;1651
+Europa;Romania;Verduras;Media;673044621;7715
+Centroamerica y Caribe;Saint Vincent and the Grenadines;Material de oficina;Alta;783052527;1499
+Europa;France;Carnicos;Baja;368751657;664
+Africa;The Gambia;Domestico;Baja;777065837;9904
+Australia y Oceania;Samoa ;Snacks;Baja;275231397;5941
+Europa;Serbia;Ropa;Media;800797164;2531
+Centroamerica y Caribe;Saint Vincent and the Grenadines;Cosmeticos;Alta;311624467;5460
+Africa;Syria;Bebida;Baja;435887134;7544
+Australia y Oceania;Australia;Verduras;Alta;622071492;3633
+Africa;Cote d'Ivoire;Cosmeticos;Media;388976371;5607
+Centroamerica y Caribe;Dominican Republic;Cuidado personal;Critica;675713098;7376
+Africa;Rwanda;Frutas;Media;691705501;9884
+Africa;Chad;Cosmeticos;Media;166689908;6103
+Africa;Kenya;Domestico;Alta;700715148;6039
+Centroamerica y Caribe;Belize;Bebida;Media;814142549;1727
+Australia y Oceania;Palau;Snacks;Critica;897645938;2236
+Africa;Equatorial Guinea;Material de oficina;Alta;962211644;8663
+Asia;Kyrgyzstan;Domestico;Baja;189138495;9139
+Asia;Bangladesh;Frutas;Baja;980037820;3824
+Asia;Bhutan;Alimento infantil;Alta;406833446;9912
+Europa;Macedonia;Carnicos;Baja;561761701;6626
+Australia y Oceania;Samoa ;Verduras;Critica;907371413;220
+Europa;Austria;Bebida;Media;526523911;8981
+Europa;Italy;Bebida;Alta;372393023;8226
+Africa;Bahrain;Material de oficina;Media;118465077;5304
+Australia y Oceania;Australia;Snacks;Critica;408538901;4594
+Africa;Nigeria;Cosmeticos;Baja;606725823;2509
+Europa;Spain;Ropa;Critica;147449672;2489
+Europa;Hungary;Carnicos;Media;785446774;10
+Europa;Bosnia and Herzegovina;Verduras;Baja;745765960;7575
+Asia;South Korea;Cosmeticos;Critica;573768556;9721
+Africa;The Gambia;Snacks;Baja;885128390;8015
+Europa;Norway;Bebida;Baja;115831792;6056
+Norteamerica;Mexico;Frutas;Media;372177588;4474
+Europa;France;Cosmeticos;Baja;680777108;5930
+Centroamerica y Caribe;Belize;Frutas;Alta;138554179;115
+Africa;Malawi;Bebida;Alta;162745130;8755
+Asia;India;Cuidado personal;Critica;440898787;604
+Asia;Tajikistan;Frutas;Media;280876481;6447
+Europa;Finland;Verduras;Baja;860852038;4103
+Africa;Rwanda;Ropa;Critica;279311788;3420
